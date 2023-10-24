@@ -35,4 +35,4 @@ jobs:
           context: .
           push: true
           target: prod
-          tags: dockerNodeJs
+          tags: dockernodejs
